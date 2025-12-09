@@ -1,0 +1,9 @@
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\bin\Debug\examensg.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\bin\Debug\examensg.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\bin\Debug\examensg.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\obj\Debug\examensg.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\obj\Debug\examensg.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\obj\Debug\examensg.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\obj\Debug\examensg.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\obj\Debug\examensg.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SG\examensg\examensg\obj\Debug\examensg.pdb
